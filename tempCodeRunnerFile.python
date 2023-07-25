@@ -1,0 +1,10 @@
+#for loops 
+# in this we use a range funtion and a [] for list of items
+#for example
+
+
+
+prices = [10,20,30]
+for price in prices:
+    total = total +price
+    print(f"total:{total}")
